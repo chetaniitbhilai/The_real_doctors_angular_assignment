@@ -74,7 +74,7 @@ export interface Person {
 Global styles are maintained in `global_styles.css`.
 
 
-**Some images**
+## Some images
 
 ![Screenshot from 2025-03-27 18-01-10](https://github.com/user-attachments/assets/fa0995e1-3bca-4aa3-bb4f-ba47a9097aa7)
 
