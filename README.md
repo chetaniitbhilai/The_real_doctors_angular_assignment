@@ -34,7 +34,7 @@ Ensure you have the following installed:
 1. Clone the repository:
    ```sh
    git clone <repository-url>
-   cd angular-people-management
+   cd The_real_doctors_angular_assignment
    ```
 2. Install dependencies:
    ```sh
@@ -42,7 +42,7 @@ Ensure you have the following installed:
    ```
 3. Run the application:
    ```sh
-   ng serve --open
+   npm run start
    ```
    This will start the development server and open the application in the browser.
 
